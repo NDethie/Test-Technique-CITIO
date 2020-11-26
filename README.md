@@ -1,5 +1,5 @@
 # Test-Technique-CITIO
-Enonce
+
 On dispose de deux itinéraires de bus représentés sous forme de liste, chaque élément représente une station de bus sous forme de coordonnées (X, Y)
 
 Exemple :
